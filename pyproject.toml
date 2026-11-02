@@ -1,0 +1,7 @@
+[project]
+name = "rag-against-the-machine"
+version = "0.1.0"
+description = "RAG against the machine : Retrieval-Augmented Generation, that’s it. That’s the goal of this project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
